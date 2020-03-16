@@ -1,0 +1,4 @@
+libreria-sat-descarga-masiva
+Si has intentado descargar tus facturas electrónicas del servidor del SAT, podrás ver que es un proceso lento y totalmente manual, ya que deberás descargar 1 por 1 los comprobantes que recibes o emites, y más aún, tener restringida la consulta a tan solo 500 CFDIs; esto no es un problema cuando vas a descargar 4 o 5 facturas, pero cuando tienes un mayor volumen se complica y peor aún cuando debes de realizarlo todos los días. Con la siguiente herramienta podras darle solucion a eso, donde podras descargar de 1 a 200mil xml por petición con ayuda del web service del SAT.
+
+En caso que desees usar la herramienta ya en producción, puedes registrarte aquí: https://tecsolt.com/descarga-masiva-xml/public/ y hacer uso del servicio completamente GRATIS!
